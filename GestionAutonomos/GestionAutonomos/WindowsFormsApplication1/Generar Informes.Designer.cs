@@ -1,6 +1,6 @@
 ﻿namespace WindowsFormsApplication1
 {
-    partial class CrearCliente
+    partial class GenerarInforme
     {
         /// <summary>
         /// Required designer variable.

@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApplication1
 {
-    public partial class CrearCliente : MasterForm
+    public partial class GenerarInforme : MasterForm
     {
-        public CrearCliente()
+        public GenerarInforme() : base()
         {
             InitializeComponent();
         }
