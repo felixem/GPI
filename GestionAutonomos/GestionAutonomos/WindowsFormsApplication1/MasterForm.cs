@@ -45,5 +45,15 @@ namespace WindowsFormsApplication1
         {
 
         }
+
+        private void toolStripMenuItem3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void toolStripMenuItem5_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

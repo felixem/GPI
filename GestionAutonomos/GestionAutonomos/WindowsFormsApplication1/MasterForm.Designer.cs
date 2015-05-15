@@ -67,6 +67,8 @@
             this.toolStripMenuItem3 = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem4 = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem5 = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripMenuItem6 = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripMenuItem7 = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -79,6 +81,8 @@
             this.toolStripMenuItem2,
             this.toolStripMenuItem3,
             this.toolStripMenuItem4,
+            this.toolStripMenuItem6,
+            this.toolStripMenuItem7,
             this.toolStripMenuItem5,
             this.helpToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
@@ -350,20 +354,34 @@
             // toolStripMenuItem3
             // 
             this.toolStripMenuItem3.Name = "toolStripMenuItem3";
-            this.toolStripMenuItem3.Size = new System.Drawing.Size(61, 24);
-            this.toolStripMenuItem3.Text = "Pagos";
+            this.toolStripMenuItem3.Size = new System.Drawing.Size(80, 24);
+            this.toolStripMenuItem3.Text = "Compras";
+            this.toolStripMenuItem3.Click += new System.EventHandler(this.toolStripMenuItem3_Click);
             // 
             // toolStripMenuItem4
             // 
             this.toolStripMenuItem4.Name = "toolStripMenuItem4";
-            this.toolStripMenuItem4.Size = new System.Drawing.Size(68, 24);
-            this.toolStripMenuItem4.Text = "Cobros";
+            this.toolStripMenuItem4.Size = new System.Drawing.Size(65, 24);
+            this.toolStripMenuItem4.Text = "Ventas";
             // 
             // toolStripMenuItem5
             // 
             this.toolStripMenuItem5.Name = "toolStripMenuItem5";
             this.toolStripMenuItem5.Size = new System.Drawing.Size(99, 24);
             this.toolStripMenuItem5.Text = "Formularios";
+            this.toolStripMenuItem5.Click += new System.EventHandler(this.toolStripMenuItem5_Click);
+            // 
+            // toolStripMenuItem6
+            // 
+            this.toolStripMenuItem6.Name = "toolStripMenuItem6";
+            this.toolStripMenuItem6.Size = new System.Drawing.Size(68, 24);
+            this.toolStripMenuItem6.Text = "Cobros";
+            // 
+            // toolStripMenuItem7
+            // 
+            this.toolStripMenuItem7.Name = "toolStripMenuItem7";
+            this.toolStripMenuItem7.Size = new System.Drawing.Size(61, 24);
+            this.toolStripMenuItem7.Text = "Pagos";
             // 
             // MasterForm
             // 
@@ -422,6 +440,8 @@
         private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem3;
         private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem4;
         private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem5;
+        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem6;
+        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem7;
 
     }
 }
