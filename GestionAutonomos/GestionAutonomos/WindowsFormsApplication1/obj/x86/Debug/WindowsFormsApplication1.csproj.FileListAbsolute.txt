@@ -1,9 +1,0 @@
-C:\Users\Felix\Documents\GitHub\GPI\GestionAutonomos\GestionAutonomos\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
-C:\Users\Felix\Documents\GitHub\GPI\GestionAutonomos\GestionAutonomos\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
-C:\Users\Felix\Documents\GitHub\GPI\GestionAutonomos\GestionAutonomos\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MasterForm.resources
-C:\Users\Felix\Documents\GitHub\GPI\GestionAutonomos\GestionAutonomos\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
-C:\Users\Felix\Documents\GitHub\GPI\GestionAutonomos\GestionAutonomos\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
-C:\Users\Felix\Documents\GitHub\GPI\GestionAutonomos\GestionAutonomos\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
-C:\Users\Felix\Documents\GitHub\GPI\GestionAutonomos\GestionAutonomos\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
-C:\Users\Felix\Documents\GitHub\GPI\GestionAutonomos\GestionAutonomos\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.CrearCliente.resources
-C:\Users\Felix\Documents\GitHub\GPI\GestionAutonomos\GestionAutonomos\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ListarProveedores.resources
